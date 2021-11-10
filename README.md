@@ -1,7 +1,7 @@
 # Luque Lab project template
 
 ## WHAT
-This repository provides information for Caitlin's project.
+This repository provides information for Caitlin's project and any contributions she's made to the group project.
 
 ## WHO
 The template was originally concived by Antoni Luque based on recommendations from Noble PLoS Comp Biol 2009, Wilson et al PLoS Comp Biol 2017, and Briney "Data Management for Researchers" (2015), Hunt and Thomas "The Pragmatic Programmer: Your Journey to Mastery" (2019 2nd ed).
